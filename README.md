@@ -1,19 +1,19 @@
-# Heart Attack Prediction
+# Heart attack Prediction
 
-![node-12045](https://github.com/Deba951/Heart-Attack-Prediction/assets/83878346/0622c508-84fd-4635-9751-82f9a68df723)
+![node-12045](https://github.com/Deba951/Heart-attack-Prediction/assets/83878346/0622c508-84fd-4635-9751-82f9a68df723)
 
 ## Introduction
 
-Welcome to the Heart Disease Prediction project repository. This project is aimed at predicting the likelihood of heart disease in individuals based on various health parameters. It involves data analysis, data preprocessing, and the application of machine learning models to make predictions.
+Welcome to the Heart attack Prediction project repository. This project aims to predict the likelihood of heart attack in individuals based on various health parameters. It involves data analysis, data preprocessing, and the application of machine learning models to make predictions.
 
 ## Objective
 ```
-The main objective of this project is to create a predictive model that can help identify individuals at a higher risk of heart disease. By analyzing a dataset of health parameters, we aim to build accurate models that can assist in early detection and intervention.
+The main objective of this project is to create a predictive model that can help identify individuals at a higher risk of heart attack. By analyzing a dataset of health parameters, we aim to build accurate models that can assist in early detection and intervention.
 ```
 
 ## Brief Description of the Project
 
-This project involves the analysis of a dataset containing various health parameters and a binary classification task to predict the presence or absence of heart disease in individuals. The project consists of the following major steps:
+This project involves the analysis of a dataset containing various health parameters and a binary classification task to predict the presence or absence of heart attack in individuals. The project consists of the following major steps:
 ```
     1. Importing libraries and datasets.
     2. Data understanding and exploration.
@@ -74,22 +74,22 @@ The following factors or parameters are considered from the CSV file:
 
 ##  Brief Description and Insight
 
-This project aims to identify early indicators of heart disease by analyzing various health parameters. It involves data preprocessing to clean and prepare the data for analysis. Exploratory Data Analysis (EDA) provides valuable insights into the dataset, enabling us to make informed decisions regarding feature selection and model training.
+This project aims to identify early indicators of heart attack by analyzing various health parameters. It involves data preprocessing to clean and prepare the data for analysis. Exploratory Data Analysis (EDA) provides valuable insights into the dataset, enabling us to make informed decisions regarding feature selection and model training.
 
-The feature selection process involves considering parameters with significant influence on heart disease prediction and handling multicollinearity to ensure model accuracy. Hyperparameter tuning is performed to optimize the machine learning models' performance.
+The feature selection process involves considering parameters with significant influence on heart attack prediction and handling multicollinearity to ensure model accuracy. Hyperparameter tuning is performed to optimize the machine learning models' performance.
 ```
 Three modelling procedures are employed in this project:
-1. **Logistic Regression**: A widely used classification algorithm that estimates the probability of a binary outcome. Logistic Regression is used to predict the likelihood of heart disease. The model is trained with hyperparameters optimized through grid search.
-2. **Decision Tree**: A tree-structured model that makes decisions based on the input features. A Decision Tree model is employed for heart disease prediction. The model's hyperparameters are fine-tuned for optimal performance.
-3. **Support Vector Machine (SVM)**: A powerful algorithm for classification and regression tasks. It is used for heart disease prediction. The model's hyperparameters are optimized through grid search.
+1. **Logistic Regression**: A widely used classification algorithm that estimates the probability of a binary outcome. Logistic Regression is used to predict the likelihood of heart attack. The model is trained with hyperparameters optimized through grid search.
+2. **Decision Tree**: A tree-structured model that makes decisions based on the input features. A Decision Tree model is employed for heart attack prediction. The model's hyperparameters are fine-tuned for optimal performance.
+3. **Support Vector Machine (SVM)**: A powerful algorithm for classification and regression tasks. It is used for heart attack prediction. The model's hyperparameters are optimized through grid search.
 ```
-The models are evaluated using confusion matrices and classification reports, providing insights into their performance in predicting heart disease.
+The models are evaluated using confusion matrices and classification reports, providing insights into their performance in predicting heart attack.
 
 ## Conclusion
 
-This project combines data analysis and machine learning to address the critical issue of heart disease prediction. By following the steps outlined in this repository, you can gain insights into the dataset, select the most relevant features, and create predictive models that aid in early detection and intervention for heart disease.
+This project combines data analysis and machine learning to address the critical issue of heart attack prediction. By following the steps outlined in this repository, you can gain insights into the dataset, select the most relevant features, and create predictive models that aid in early detection and intervention for heart attack.
 
-![648352d2cd7fec3dd50e7a783a934e2b](https://github.com/Deba951/Heart-Attack-Prediction/assets/83878346/8830bed1-049b-4e73-94ef-c425f2542bd6)
+![648352d2cd7fec3dd50e7a783a934e2b](https://github.com/Deba951/Heart-attack-Prediction/assets/83878346/8830bed1-049b-4e73-94ef-c425f2542bd6)
 
-Thank you for visiting the Heart Disease Prediction project repository!
+Thank you for visiting the Heart attack Prediction project repository!
 Feel free to drop a star if you like it.
