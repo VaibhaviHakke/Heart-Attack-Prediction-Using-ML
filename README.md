@@ -1,4 +1,4 @@
-# Antahkarana
+# HridayaSanket
 Website to predict heart attack possibility by taking self-reported parameters
 
 ## Overview of our website 
